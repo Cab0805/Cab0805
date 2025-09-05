@@ -29,7 +29,7 @@ Tenho perfil proativo, gosto de aprender de forma autônoma e estou em constante
   <img 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=**SEU_USERNAME_AQUI**&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=**Cab0805**&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
 
@@ -40,4 +40,4 @@ Tenho perfil proativo, gosto de aprender de forma autônoma e estou em constante
 <p align="center">
   <img 
     alt="Streak" 
-    src="https://streak-stats.demolab.com?user=**SEU_USERNAME_AQUI**&theme=tokyonight&locale=pt_BR&date_form
+    src="https://streak-stats.demolab.com?user=**Cab0805**&theme=tokyonight&locale=pt_BR&date_form
