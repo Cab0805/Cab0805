@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Guilherme Cabral Teixeira
 
-**`Desenvolvedor FullStack`**
+**`Estudante de CC`**
 
 Sou estudante de Ciência da Computação na **UNIFACS**, com interesse em programação, tecnologia e inovação. Atualmente estou aprofundando meus conhecimentos em **Python** e fundamentos de **programação orientada a objetos**, sempre buscando aplicar a teoria em projetos práticos.
 
